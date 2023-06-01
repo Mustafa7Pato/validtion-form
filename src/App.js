@@ -1,7 +1,5 @@
-import React, { Fragment, useRef, useState } from "react";
-import FormInput from "./Components/FormInput";
-import { Button, Form } from "react-bootstrap";
-import { Route, Routes, useNavigate } from "react-router-dom";
+import React, { useState } from "react";
+import { Route, Routes } from "react-router-dom";
 import Home from "./Home";
 import FormValid from "./Components/Form";
 
